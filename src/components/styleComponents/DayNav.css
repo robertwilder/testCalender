@@ -1,0 +1,50 @@
+.links {
+   
+    padding:15px;
+    border-block: black;
+    background: rgba(184, 52, 63, 0.726);
+    border-radius: 5px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    border-style: solid;
+    border-width: 1px;
+    border-left: none;
+    
+}
+.links:hover {
+    background: rgba(20, 20, 44, 0.521);
+    padding: 60px;
+    align-items: flex-start;
+
+} 
+.links:visited{
+    color: white;
+}
+.links1 {
+    
+    padding:15px;
+    border-block: black;
+    background: rgba(184, 52, 63, 0.726);
+    border-radius: 5px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    border-style: solid;
+    border-width: 1px;
+
+}
+
+.links1:hover {
+    padding: 60px;
+    background: rgba(20, 20, 44, 0.521);
+
+}
+
+.Box {
+    display: flex;
+    margin-left: 30px;
+    border-style: solid;
+    padding: 20px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-right: 1px;
+}
